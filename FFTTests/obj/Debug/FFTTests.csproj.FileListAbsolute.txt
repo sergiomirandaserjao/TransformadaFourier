@@ -1,0 +1,16 @@
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\bin\Debug\FourierTransformTests.dll
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\bin\Debug\FourierTransformTests.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\bin\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\bin\Debug\FourierTransform.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\obj\Debug\FFTTests.csprojResolveAssemblyReference.cache
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\obj\Debug\FourierTransformTests.dll
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransformTests\obj\Debug\FourierTransformTests.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\bin\Debug\FourierTransformTests.dll
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\bin\Debug\FourierTransformTests.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\bin\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\bin\Debug\FourierTransform.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\obj\Debug\FFTTests.csprojResolveAssemblyReference.cache
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\obj\Debug\FourierTransformTests.dll
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFTTests\obj\Debug\FourierTransformTests.pdb

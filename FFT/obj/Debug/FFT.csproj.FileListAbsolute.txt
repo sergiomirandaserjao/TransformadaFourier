@@ -1,0 +1,14 @@
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\bin\Debug\FourierTransform.exe.config
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\bin\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\bin\Debug\FourierTransform.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\obj\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\obj\Debug\FourierTransform.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFT\bin\Debug\FourierTransform.exe.config
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFT\bin\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFT\bin\Debug\FourierTransform.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFT\obj\Debug\FFT.csprojResolveAssemblyReference.cache
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFT\obj\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FFT\obj\Debug\FourierTransform.pdb
+C:\Users\Romulo\Documents\Visual Studio 2015\Projects\Fourier2\FourierTransform\FFT\bin\Debug\FourierTransform.exe.config
+C:\Users\Romulo\Documents\Visual Studio 2015\Projects\Fourier2\FourierTransform\FFT\obj\Debug\FourierTransform.exe
+C:\Users\Romulo\Documents\Visual Studio 2015\Projects\Fourier2\FourierTransform\FFT\obj\Debug\FourierTransform.pdb

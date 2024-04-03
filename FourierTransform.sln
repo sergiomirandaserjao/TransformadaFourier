@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFT", "FFT\FFT.csproj", "{D18DC1A3-2967-407E-89C4-774D00575701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFTTests", "FFTTests\FFTTests.csproj", "{DEBB7F26-8A2B-4232-AC61-26EF74E1BF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18DC1A3-2967-407E-89C4-774D00575701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18DC1A3-2967-407E-89C4-774D00575701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18DC1A3-2967-407E-89C4-774D00575701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18DC1A3-2967-407E-89C4-774D00575701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBB7F26-8A2B-4232-AC61-26EF74E1BF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBB7F26-8A2B-4232-AC61-26EF74E1BF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBB7F26-8A2B-4232-AC61-26EF74E1BF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBB7F26-8A2B-4232-AC61-26EF74E1BF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

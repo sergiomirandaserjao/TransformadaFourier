@@ -1,0 +1,6 @@
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\bin\Debug\FourierTransform.exe.config
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\bin\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\bin\Debug\FourierTransform.pdb
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\obj\Debug\FourierTransform.csprojResolveAssemblyReference.cache
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\obj\Debug\FourierTransform.exe
+C:\Users\Romulo\Source\Repos\Fourier Transform\FourierTransform\obj\Debug\FourierTransform.pdb
